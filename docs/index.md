@@ -74,20 +74,20 @@ For all information, please contact Kirsten Kindred at Talent Path.
 #### National Farm Donator 
 
 Independent full-stack CRUD application to serve as a template for communication between farmers and community using PassportJS and a sequelize.
-![donations](public/images/donationimage.PNG)
+![donations](../public/images/donationimage.PNG)
 
     Languages : Javascript, Node.js/Express, MySQL 
 Project Link: [Capstone Repository](https://github.com/mrterranova/capstoneTalentPath)
 
 #### Speaker Itinerary App 
 Independent full-stack CRUD application for displaying speakers and scheduling speaking events.
-![speaker](public/images/speakerimage.PNG)
+![speaker](../public/images/speakerimage.PNG)
 
     Languages: AngularJS, Springboot/Java, SQLite
 Project Link: [Client Repository](https://github.com/mrterranova/SpringBootSpeakers-client), [Server Repository](https://github.com/mrterranova/SpringBootSpeakers-Server)
 #### Headshots 
 Group ReactJS application with camera and background removal components to take professional pictures.
-![Headshots](../images/headshotsimage.PNG)
+![Headshots](../public/images/headshotsimage.PNG)
 
     Languages: ReactJS
     Roles: Styling and Toggle Features
