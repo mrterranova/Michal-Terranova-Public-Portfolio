@@ -4,7 +4,7 @@
 
 ![headshot](../public/images/headshot.PNG)
 
-<p style="font-weight: 500; font-Size: 18px;height:200px;">Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</p>
+<p style="font-weight: 500; font-Size: 18px;">Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</p>
 
 -----------------------------------
 ### Education
