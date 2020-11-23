@@ -2,11 +2,12 @@
 ----------------------------------- 
 ## About Me
 
-<img src="https://github.com/mrterranova/Michal-Terranova-Public-Portfolio/blob/master/public/images/headshot.PNG" style="width:200px; height:200px; float:left;margin-right: 40px;">
+![headshot](../public/images/headshot.PNG)
 
 <p style="font-weight: 500; font-Size: 18px;height:200px;">Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</p>
 
 -----------------------------------
+
 ### Education
 |             Institution            |             Degree Obtained            |     Location    |
 |:----------------------------------:|:--------------------------------------:|:---------------:|
