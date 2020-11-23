@@ -111,13 +111,13 @@ Project Link: [Client Repo](https://github.com/mrterranova/client-EarthBnB), [Se
 Java building exercises demonstrating knowledge base in Java testing and application production. 
 
 Projects and Links: 
-* [Mini Arcade Repository](https://github.com/mrterranova/maven_simple-arcade) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_simple-arcade)
-* [Streams and Lambdas Repository](https://github.com/mrterranova/maven_streams-and-lambdas) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_streams-and-lambdas)
-* [Bin and Die Repository](https://github.com/mrterranova/Maven.BinAndDieSimulation) | [Travis Build](https://travis-ci.com/github/mrterranova/Maven.BinAndDieSimulation)
-* [Learner Lab Repository](https://github.com/mrterranova/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_learnerlab)
+* [Mini Arcade Repository](https://github.com/mrterranova/maven_simple-arcade)     | [Travis Build](https://travis-ci.com/github/mrterranova/maven_simple-arcade)
+* [Streams and Lambdas Repository](https://github.com/mrterranova/maven_streams-and-lambdas)| [Travis Build](https://travis-ci.com/github/mrterranova/maven_streams-and-lambdas)
+* [Bin and Die Repository](https://github.com/mrterranova/Maven.BinAndDieSimulation)     | [Travis Build](https://travis-ci.com/github/mrterranova/Maven.BinAndDieSimulation)
+* [Learner Lab Repository](https://github.com/mrterranova/maven_learnerlab)         | [Travis Build](https://travis-ci.com/github/mrterranova/maven_learnerlab)
 * [Exceptions Exercises Repository](https://github.com/mrterranova/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.exceptional-phone-number)
-* [Java Core Foundations 2](https://github.com/mrterranova/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.numbers-triangles-tables)
-* [Java Core Foundations 1](https://github.com/mrterranova/maven.java-fundamentals) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.java-fundamentals)
+* [Java Core Foundations 2](https://github.com/mrterranova/maven.numbers-triangles-tables)      | [Travis Build](https://travis-ci.com/github/mrterranova/maven.numbers-triangles-tables)
+* [Java Core Foundations 1](https://github.com/mrterranova/maven.java-fundamentals)        | [Travis Build](https://travis-ci.com/github/mrterranova/maven.java-fundamentals)
 
 
 -----------------------------------
