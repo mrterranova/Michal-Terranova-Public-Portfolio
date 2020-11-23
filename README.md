@@ -8,9 +8,9 @@
 
 -----------------------------------
 ### Education
-- Georgia Institute of Technology       | Certificate Full-Stack Web Development |   Atlanta, GA   
-- Savannah College of Art and Design    |             MA in Animation            |   Savannah, GA  
-- Florida State University              |       BS Geology & BA Studio Art       | Tallahassee, FL 
+- Georgia Institute of Technology, *Certificate Full-Stack Web Development*,  Atlanta, GA   
+- Savannah College of Art and Design,  *MA in Animation*,  Savannah, GA  
+- Florida State University,  *BS Geology & BA Studio Art*,  Tallahassee, FL 
 
 -----------------------------------
 
