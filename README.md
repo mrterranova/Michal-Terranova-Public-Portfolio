@@ -2,7 +2,7 @@
 ----------------------------------- 
 ## About Me
 
-![headshot](../public/images/headshot.PNG)
+![headshot](public/images/headshot.PNG)
 
 <p style="font-weight: 500; font-Size: 18px;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</i></p>
 
@@ -72,7 +72,7 @@ For all information, please contact Kiersten Kindred at Talent Path.
 #### National Farm Donator 
 
 Independent full-stack CRUD application to serve as a template for communication between farmers and community using PassportJS and a sequelize.
-![donations](../public/images/donationimage.PNG)
+![donations](../images/donationimage.PNG)
 
     Languages : Javascript, Node.js/Express, MySQL 
 Project Link: [Capstone Repository](https://github.com/mrterranova/capstoneTalentPath)
