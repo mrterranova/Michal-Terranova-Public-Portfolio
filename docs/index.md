@@ -72,7 +72,7 @@ For all information, please contact Kiersten Kindred at Talent Path.
 #### National Farm Donator 
 
 Independent full-stack CRUD application to serve as a template for communication between farmers and community using PassportJS and a sequelize.
-![donations](https://github.com/mrterranova/Michal-Terranova-Public-Portfolio/public/images/donationimage.PNG)
+![donations](../public/images/donationimage.PNG)
 
     Languages : Javascript, Node.js/Express, MySQL 
     
@@ -80,14 +80,14 @@ Project Link: [Capstone Repository](https://github.com/mrterranova/capstoneTalen
 
 #### Speaker Itinerary App 
 Independent full-stack CRUD application for displaying speakers and scheduling speaking events.
-![speaker](https://github.com/mrterranova/Michal-Terranova-Public-Portfolio/public/images/speakerimage.PNG)
+![speaker](../public/images/speakerimage.PNG)
 
     Languages: AngularJS, Springboot/Java, SQLite
     
 Project Link: [Client Repository](https://github.com/mrterranova/SpringBootSpeakers-client), [Server Repository](https://github.com/mrterranova/SpringBootSpeakers-Server)
 #### Headshots 
 Group ReactJS application with camera and background removal components to take professional pictures.
-![Headshots](public/images/headshotsimage.PNG)
+![Headshots](../public/images/headshotsimage.PNG)
 
     Languages: ReactJS
     Roles: Styling and Toggle Features
@@ -96,7 +96,7 @@ Project Link:[Headshots Application](https://github.com/mrterranova/headShotsSit
 
 #### Amazin'  
 Full-stack application replicating popular shopping websites. 
-![Amazin](public/images/amazinimage.PNG)
+![Amazin](../public/images/amazinimage.PNG)
 
     Languages: ReactJS, Springboot/Java, Postgres
     Roles: Product Variant Component, Editing Server Development
@@ -105,7 +105,7 @@ Project Link:[Client Repo](https://github.com/mrterranova/client-Amazin), [Serve
 
 #### Earth BNB 
 Full-stack application replicating popular bed and breakfast websites.
-![EarthBNB](public/images/Earthbnbimage.PNG)
+![EarthBNB](../public/images/Earthbnbimage.PNG)
 
     Languages: AngularJS, Springboot/Java, MySQL
     Roles: More Places to Stay Component, Footer, Client Routing, Server Development
