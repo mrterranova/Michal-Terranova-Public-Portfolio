@@ -30,7 +30,7 @@ __Overall Experience__: 4 Years
 -----------------------------------
 
 ### Contact Information 
-For all information, please contact Kirsten Kindred at Talent Path.
+For all information, please contact Kiersten Kindred at Talent Path.
 
 - __Phone Number__ : 713-547-4495 
 - __Email Address__ : [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
