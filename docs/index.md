@@ -80,7 +80,7 @@ Project Link: [Capstone Repository](https://github.com/mrterranova/capstoneTalen
 
 #### Speaker Itinerary App 
 Independent full-stack CRUD application for displaying speakers and scheduling speaking events.
-![speaker](../public/images/speakerimage.PNG)
+![speaker](public/images/speakerimage.PNG)
 
     Languages: AngularJS, Springboot/Java, SQLite
     
