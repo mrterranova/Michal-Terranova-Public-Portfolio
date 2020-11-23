@@ -75,6 +75,7 @@ Independent full-stack CRUD application to serve as a template for communication
 ![donations](public/images/donationimage.PNG)
 
     Languages : Javascript, Node.js/Express, MySQL 
+    
 Project Link: [Capstone Repository](https://github.com/mrterranova/capstoneTalentPath)
 
 #### Speaker Itinerary App 
@@ -82,6 +83,7 @@ Independent full-stack CRUD application for displaying speakers and scheduling s
 ![speaker](public/images/speakerimage.PNG)
 
     Languages: AngularJS, Springboot/Java, SQLite
+    
 Project Link: [Client Repository](https://github.com/mrterranova/SpringBootSpeakers-client), [Server Repository](https://github.com/mrterranova/SpringBootSpeakers-Server)
 #### Headshots 
 Group ReactJS application with camera and background removal components to take professional pictures.
@@ -89,6 +91,7 @@ Group ReactJS application with camera and background removal components to take 
 
     Languages: ReactJS
     Roles: Styling and Toggle Features
+    
 Project Link:[Headshots Application](https://github.com/mrterranova/headShotsSiteforTP)
 
 #### Amazin'  
@@ -97,6 +100,7 @@ Full-stack application replicating popular shopping websites.
 
     Languages: ReactJS, Springboot/Java, Postgres
     Roles: Product Variant Component, Editing Server Development
+    
 Project Link:[Client Repo](https://github.com/mrterranova/client-Amazin), [Server Repo](https://github.com/mrterranova/server-Amazin)
 
 #### Earth BNB 
@@ -105,6 +109,7 @@ Full-stack application replicating popular bed and breakfast websites.
 
     Languages: AngularJS, Springboot/Java, MySQL
     Roles: More Places to Stay Component, Footer, Client Routing, Server Development
+    
 Project Link: [Client Repo](https://github.com/mrterranova/client-EarthBnB), [Server Repo](https://github.com/mrterranova/server-EarthBnB)
 
 #### Learning Exercises with Java Projects 
