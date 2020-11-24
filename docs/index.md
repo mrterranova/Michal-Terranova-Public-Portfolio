@@ -117,7 +117,7 @@ Project Link: [Client Repo](https://github.com/mrterranova/client-EarthBnB), [Se
 Java building exercises demonstrating knowledge base in Java testing and application production. 
 
 Projects and Links: 
-* [Mini Arcade Repository](https://github.com/mrterranova/maven_simple-arcade) | [Travis Build]()
+* [Mini Arcade Repository](https://github.com/mrterranova/maven_simple-arcade) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_simple-arcade)
 * [Streams and Lambdas Repository](https://github.com/mrterranova/maven_streams-and-lambdas) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_streams-and-lambdas)
 * [Bin and Die Repository](https://github.com/mrterranova/Maven.BinAndDieSimulation) | [Travis Build](https://travis-ci.com/github/mrterranova/Maven.BinAndDieSimulation)
 * [Learner Lab Repository](https://github.com/mrterranova/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_learnerlab)
