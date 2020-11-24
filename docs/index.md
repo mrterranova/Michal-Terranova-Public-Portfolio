@@ -2,7 +2,7 @@
 ----------------------------------- 
 ## About Me
 
-![headshot](public/images/headshot.PNG)
+![headshot](../public/images/headshot.PNG)
 
 <p style="font-weight: 500; font-Size: 18px;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</i></p>
 
@@ -73,7 +73,7 @@ For all information, please contact Kiersten Kindred at Talent Path.
 #### National Farm Donator 
 
 Independent full-stack CRUD application to serve as a template for communication between farmers and community using PassportJS and a sequelize.
-![donations](public/images/donationimage.PNG)
+![donations](../public/images/donationimage.PNG)
 
     Languages : Javascript, Node.js/Express, MySQL 
     
@@ -81,7 +81,7 @@ Project Link: [Capstone Repository](https://github.com/mrterranova/capstoneTalen
 
 #### Speaker Itinerary App 
 Independent full-stack CRUD application for displaying speakers and scheduling speaking events.
-![speaker](public/images/speakerimage.PNG)
+![speaker](../public/images/speakerimage.PNG)
 
     Languages: AngularJS, Springboot/Java, SQLite
     
@@ -97,7 +97,7 @@ Project Link:[Headshots Application](https://github.com/mrterranova/headShotsSit
 
 #### Amazin'  
 Full-stack application replicating popular shopping websites. 
-![Amazin](public/images/amazinimage.PNG)
+![Amazin](../public/images/amazinimage.PNG)
 
     Languages: ReactJS, Springboot/Java, Postgres
     Roles: Product Variant Component, Editing Server Development
@@ -106,7 +106,7 @@ Project Link:[Client Repo](https://github.com/mrterranova/client-Amazin), [Serve
 
 #### Earth BNB 
 Full-stack application replicating popular bed and breakfast websites.
-![EarthBNB](public/images/Earthbnbimage.PNG)
+![EarthBNB](../public/images/Earthbnbimage.PNG)
 
     Languages: AngularJS, Springboot/Java, MySQL
     Roles: More Places to Stay Component, Footer, Client Routing, Server Development
