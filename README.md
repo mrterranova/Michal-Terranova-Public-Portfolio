@@ -1,8 +1,11 @@
 # Junior Full Stack Web Developer
+<link rel="stylesheet" type="text/css" media="all" href="public/css/style.css" />
 ----------------------------------- 
 ## About Me
 
-![headshot](public/images/headshot.PNG)
+<div class="portfolio-img">
+<img src="public/images/headshot.PNG" alt="portfolio image" />
+</div>
 
 <p style="font-weight: 500; font-Size: 18px;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</i></p>
 

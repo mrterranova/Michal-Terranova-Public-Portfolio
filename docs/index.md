@@ -1,10 +1,12 @@
 # Junior Full Stack Web Developer
 ----------------------------------- 
-## About Me
+<h2>About Me</h2>
 
-![headshot](public/images/headshot.PNG)
+<div style="display:flex; justify-content: center;">
+<img src="../public/images/headshot.PNG">
+</div>
 
-<p style="font-weight: 500; font-Size: 18px;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</i></p>
+<p style="font-weight: 500; font-Size: 18px;text-align:center;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</i></p>
 
 -----------------------------------
 ### Education
@@ -37,6 +39,8 @@ For all information, please contact Kiersten Kindred at Talent Path.
 - __Email Address__ : [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
 - __LinkedIn Account__ : [Click Link Here](https://www.linkedin.com/in/michal-terranova-435a55b4)
 - __GitHub Account__ : [github.com/mrterranova](https://github.com/mrterranova)
+
+Or you can download a pdf of my resume [HERE](../public/resume/MTerranova-TP_Resume.pdf)
 
 -------------------------------------
 
