@@ -1,5 +1,6 @@
 # Junior Full Stack Web Developer
 <link rel="stylesheet" type="text/css" media="all" href="public/css/style.css" />
+
 ----------------------------------- 
 ## About Me
 
