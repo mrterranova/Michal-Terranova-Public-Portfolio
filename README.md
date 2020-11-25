@@ -4,8 +4,8 @@
 ----------------------------------- 
 ## About Me
 
-<div class="portfolio-img">
-<img src="public/images/headshot.PNG" alt="portfolio image" />
+<div style="display:flex; justify-content: center;">
+<img src="../public/images/headshot.PNG">
 </div>
 
 <p style="font-weight: 500; font-Size: 18px;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</i></p>
@@ -21,6 +21,7 @@
 ### Work Experience
 
 __IT Experience__ : 1 Year
+
 __Overall Experience__: 4 Years
 
 -----------------------------------
@@ -40,6 +41,7 @@ For all information, please contact Kiersten Kindred at Talent Path.
 - __Email Address__ : [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
 - __LinkedIn Account__ : [Click Link Here](https://www.linkedin.com/in/michal-terranova-435a55b4)
 - __GitHub Account__ : [github.com/mrterranova](https://github.com/mrterranova)
+- __Twitter Account__ : [Click Link Here](https://twitter.com/FullTerranova) 
 
 -------------------------------------
 
@@ -120,13 +122,25 @@ Project Link: [Client Repo](https://github.com/mrterranova/client-EarthBnB), [Se
 Java building exercises demonstrating knowledge base in Java testing and application production. 
 
 Projects and Links: 
-* [Mini Arcade Repository](https://github.com/mrterranova/maven_simple-arcade)     | [Travis Build](https://travis-ci.com/github/mrterranova/maven_simple-arcade)
+* [Mini Arcade Repository](https://github.com/mrterranova/maven_simple-arcade)| [Travis Build](https://travis-ci.com/github/mrterranova/maven_simple-arcade)
 * [Streams and Lambdas Repository](https://github.com/mrterranova/maven_streams-and-lambdas)| [Travis Build](https://travis-ci.com/github/mrterranova/maven_streams-and-lambdas)
-* [Bin and Die Repository](https://github.com/mrterranova/Maven.BinAndDieSimulation)     | [Travis Build](https://travis-ci.com/github/mrterranova/Maven.BinAndDieSimulation)
-* [Learner Lab Repository](https://github.com/mrterranova/maven_learnerlab)         | [Travis Build](https://travis-ci.com/github/mrterranova/maven_learnerlab)
+* [Bin and Die Repository](https://github.com/mrterranova/Maven.BinAndDieSimulation) | [Travis Build](https://travis-ci.com/github/mrterranova/Maven.BinAndDieSimulation)
+* [Learner Lab Repository](https://github.com/mrterranova/maven_learnerlab)| [Travis Build](https://travis-ci.com/github/mrterranova/maven_learnerlab)
 * [Exceptions Exercises Repository](https://github.com/mrterranova/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.exceptional-phone-number)
-* [Java Core Foundations 2](https://github.com/mrterranova/maven.numbers-triangles-tables)      | [Travis Build](https://travis-ci.com/github/mrterranova/maven.numbers-triangles-tables)
-* [Java Core Foundations 1](https://github.com/mrterranova/maven.java-fundamentals)        | [Travis Build](https://travis-ci.com/github/mrterranova/maven.java-fundamentals)
+* [Java Core Foundations 3 (Extra)](https://github.com/mrterranova/maven.stringarrayutilities)|[Travis Build](https://travis-ci.com/github/mrterranova/maven.stringarrayutilities)
+* [Java Core Foundations 2](https://github.com/mrterranova/maven.numbers-triangles-tables)| [Travis Build](https://travis-ci.com/github/mrterranova/maven.numbers-triangles-tables)
+* [Java Core Foundations 1](https://github.com/mrterranova/maven.java-fundamentals)| [Travis Build](https://travis-ci.com/github/mrterranova/maven.java-fundamentals)
 
 
 -----------------------------------
+
+### Authored Articles
+
+#### [Mapping out your full-stack project: what goes on behind the code](https://medium.com/@mterranova_33000/sketching-out-your-code-d917c59519c8)
+
+#### [React from scratch: What your webpack might require with .jsx extensions, css, jest-testing, and react-router](https://medium.com/@mterranova_33000/react-from-scratch-what-your-webpack-might-reaquire-from-with-jsx-872373b10715)
+
+#### [Build your own custom dropdown menu that displays the user’s selection on click in ReactJS without framework plugins](https://medium.com/@mterranova_33000/build-your-own-custom-dropdown-menu-in-reactjs-f7b69c4658b3)
+
+
+    
