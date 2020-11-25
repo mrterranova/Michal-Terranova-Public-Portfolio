@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 
 <div style="display:flex; justify-content: center;">
-<img src="../images/headshot.PNG">
+<img src="../public/images/headshot.PNG">
 </div>
 
 <p style="font-weight: 500; font-Size: 18px;text-align:center;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</i></p>
@@ -77,7 +77,7 @@ Or you can download a pdf of my resume [HERE](../public/resume/MTerranova-TP_Res
 #### National Farm Donator 
 
 Independent full-stack CRUD application to serve as a template for communication between farmers and community using PassportJS and a sequelize.
-![donations](../public/images/donationimage.PNG)
+![donations](public/images/donationimage.PNG)
 
     Languages : Javascript, Node.js/Express, MySQL 
     
