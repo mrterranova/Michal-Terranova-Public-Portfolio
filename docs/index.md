@@ -2,7 +2,7 @@
 ----------------------------------- 
 ## About Me
 
-![headshot](../public/images/headshot.PNG)
+![headshot](public/images/headshot.PNG)
 
 <p style="font-weight: 500; font-Size: 18px;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</i></p>
 
