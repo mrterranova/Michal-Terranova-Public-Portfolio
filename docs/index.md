@@ -122,6 +122,7 @@ Projects and Links:
 * [Bin and Die Repository](https://github.com/mrterranova/Maven.BinAndDieSimulation) | [Travis Build](https://travis-ci.com/github/mrterranova/Maven.BinAndDieSimulation)
 * [Learner Lab Repository](https://github.com/mrterranova/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_learnerlab)
 * [Exceptions Exercises Repository](https://github.com/mrterranova/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.exceptional-phone-number)
+* [Java Core Foundations 3](https://github.com/mrterranova/maven.stringarrayutilities) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.stringarrayutilities)
 * [Java Core Foundations 2](https://github.com/mrterranova/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.numbers-triangles-tables)
 * [Java Core Foundations 1](https://github.com/mrterranova/maven.java-fundamentals) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.java-fundamentals)
 
