@@ -33,18 +33,25 @@ __Overall Experience__: 4 Years
 - Tennis
 
 -----------------------------------
+### Contact Information
 
-### Contact Information 
-For all information, please contact Kiersten Kindred at Talent Path.
+#### Consultant Contact
+For all information, please contact Kiersten Kindred, *Consultant Engagement Manager*.
 
 - __Phone Number__ : 713-547-4495 
 - __Email Address__ : [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
-- __LinkedIn Account__ : [Click Link Here](https://www.linkedin.com/in/michal-terranova-435a55b4)
+
+#### My Accounts
+View my repositories and posts over my work and social media accounts.
+
 - __GitHub Account__ : [github.com/mrterranova](https://github.com/mrterranova)
+- __LinkedIn Account__ : [Click Link Here](https://www.linkedin.com/in/michal-terranova-435a55b4)
 - __Twitter Account__ : [Click Link Here](https://twitter.com/FullTerranova) 
 
--------------------------------------
 
+Or you can download a pdf of my resume [HERE](../public/resume/MTerranova-TP_Resume.pdf)
+
+-------------------------------------
 ## Skills
 
 ### Software Engineering Skills
