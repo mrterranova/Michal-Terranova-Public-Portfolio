@@ -39,6 +39,7 @@ For all information, please contact Kiersten Kindred at Talent Path.
 - __Email Address__ : [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
 - __LinkedIn Account__ : [Click Link Here](https://www.linkedin.com/in/michal-terranova-435a55b4)
 - __GitHub Account__ : [github.com/mrterranova](https://github.com/mrterranova)
+- __Twitter__ : [Click Link Here] (https://twitter.com/FullTerranova)
 
 Or you can download a pdf of my resume [HERE](../public/resume/MTerranova-TP_Resume.pdf)
 
