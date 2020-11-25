@@ -88,7 +88,7 @@ Independent full-stack CRUD application for displaying speakers and scheduling s
 Project Link: [Client Repository](https://github.com/mrterranova/SpringBootSpeakers-client), [Server Repository](https://github.com/mrterranova/SpringBootSpeakers-Server)
 #### Headshots 
 Group ReactJS application with camera and background removal components to take professional pictures.
-![Headshots](public/images/headshotsimage.PNG)
+![Headshots](../public/images/headshotsimage.PNG)
 
     Languages: ReactJS
     Roles: Styling and Toggle Features
@@ -118,10 +118,10 @@ Java building exercises demonstrating knowledge base in Java testing and applica
 
 Projects and Links: 
 * [Mini Arcade Repository](https://github.com/mrterranova/maven_simple-arcade) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_simple-arcade)
-* [Streams and Lambdas Repository](https://github.com/mrterranova/maven_streams-and-lambdas) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_streams-and-lambdas)
+* [Streams/Lambdas Repository](https://github.com/mrterranova/maven_streams-and-lambdas) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_streams-and-lambdas)
 * [Bin and Die Repository](https://github.com/mrterranova/Maven.BinAndDieSimulation) | [Travis Build](https://travis-ci.com/github/mrterranova/Maven.BinAndDieSimulation)
 * [Learner Lab Repository](https://github.com/mrterranova/maven_learnerlab) | [Travis Build](https://travis-ci.com/github/mrterranova/maven_learnerlab)
-* [Exceptions Exercises Repository](https://github.com/mrterranova/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.exceptional-phone-number)
+* [Exceptions Repository](https://github.com/mrterranova/maven.exceptional-phone-number) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.exceptional-phone-number)
 * [Java Core Foundations 3](https://github.com/mrterranova/maven.stringarrayutilities) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.stringarrayutilities)
 * [Java Core Foundations 2](https://github.com/mrterranova/maven.numbers-triangles-tables) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.numbers-triangles-tables)
 * [Java Core Foundations 1](https://github.com/mrterranova/maven.java-fundamentals) | [Travis Build](https://travis-ci.com/github/mrterranova/maven.java-fundamentals)
