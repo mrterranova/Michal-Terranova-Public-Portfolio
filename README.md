@@ -136,11 +136,13 @@ Projects and Links:
 
 ### Authored Articles
 
-#### [Mapping out your full-stack project: what goes on behind the code](https://medium.com/@mterranova_33000/sketching-out-your-code-d917c59519c8)
+##### [Mapping out your full-stack project: what goes on behind the code](https://medium.com/@mterranova_33000/sketching-out-your-code-d917c59519c8)
+        - In this post, you won’t find a single line of code. That’s correct, no code at all because you as a developer need a plan for your full-stack application first...
 
-#### [React from scratch: What your webpack might require with .jsx extensions, css, jest-testing, and react-router](https://medium.com/@mterranova_33000/react-from-scratch-what-your-webpack-might-reaquire-from-with-jsx-872373b10715)
+##### [React from scratch: What your webpack might require with .jsx extensions, css, jest-testing, and react-router](https://medium.com/@mterranova_33000/react-from-scratch-what-your-webpack-might-reaquire-from-with-jsx-872373b10715)
+        - Building a react app from scratch? Many tutorials will give you insight as to how to build your own react project from scratch. This tutorial includes not only the basics of what you will need but goes into features that you or your team might want to include...
 
-#### [Build your own custom dropdown menu that displays the user’s selection on click in ReactJS without framework plugins](https://medium.com/@mterranova_33000/build-your-own-custom-dropdown-menu-in-reactjs-f7b69c4658b3)
-
+##### [Build your own custom dropdown menu that displays the user’s selection on click in ReactJS without framework plugins](https://medium.com/@mterranova_33000/build-your-own-custom-dropdown-menu-in-reactjs-f7b69c4658b3)
+        - This is a step-by-step guide on how to build a customizable dropdown menu that updates the options your menu on click. You will be given all the needed steps to develop your dropdown without any plugins.
 
     
