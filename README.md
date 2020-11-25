@@ -143,6 +143,6 @@ Projects and Links:
         - Building a react app from scratch? Many tutorials will give you insight as to how to build your own react project from scratch. This tutorial includes not only the basics of what you will need but goes into features that you or your team might want to include...
 
 ##### [Build your own custom dropdown menu that displays the user’s selection on click in ReactJS without framework plugins](https://medium.com/@mterranova_33000/build-your-own-custom-dropdown-menu-in-reactjs-f7b69c4658b3)
-        - This is a step-by-step guide on how to build a customizable dropdown menu that updates the options your menu on click. You will be given all the needed steps to develop your dropdown without any plugins.
+        - This is a step-by-step guide on how to build a customizable dropdown menu that updates the options your menu on click. You will be given all the needed steps to develop your dropdown without any plugins...
 
     
