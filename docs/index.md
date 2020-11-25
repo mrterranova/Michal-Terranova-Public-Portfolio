@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 
 <div style="display:flex; justify-content: center;">
-<img src="../public/images/headshot.PNG">
+<img src="../images/headshot.PNG">
 </div>
 
 <p style="font-weight: 500; font-Size: 18px;text-align:center;"><i>Full-stack web developer in both Java and MERN stacks whose educational background is in science and animation. This has given me the perfect foundation for innovation and function.</i></p>
