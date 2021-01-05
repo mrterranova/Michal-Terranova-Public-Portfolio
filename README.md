@@ -87,7 +87,7 @@ Or you can download a pdf of my resume [HERE](../public/resume/MTerranova-TP_Res
 Independent full-stack CRUD application to serve as a template for communication between farmers and community using PassportJS and a sequelize.
 ![donations](public/images/donationimage.PNG)
 
-    Languages : Javascript, Node.js/Express, MySQL 
+    Technology : Javascript, Node.js/Express, MySQL 
     
 Project Link: [Capstone Repository](https://github.com/mrterranova/capstoneTalentPath)
 
@@ -95,14 +95,14 @@ Project Link: [Capstone Repository](https://github.com/mrterranova/capstoneTalen
 Independent full-stack CRUD application for displaying speakers and scheduling speaking events.
 ![speaker](public/images/speakerimage.PNG)
 
-    Languages: AngularJS, Springboot/Java, SQLite
+    Technology: AngularJS, Springboot/Java, SQLite
     
 Project Link: [Client Repository](https://github.com/mrterranova/SpringBootSpeakers-client), [Server Repository](https://github.com/mrterranova/SpringBootSpeakers-Server)
 #### Headshots 
 Group ReactJS application with camera and background removal components to take professional pictures.
 ![Headshots](public/images/headshotsimage.PNG)
 
-    Languages: ReactJS
+    Technology: ReactJS
     Roles: Styling and Toggle Features
     
 Project Link:[Headshots Application](https://github.com/mrterranova/headShotsSiteforTP)
@@ -111,7 +111,7 @@ Project Link:[Headshots Application](https://github.com/mrterranova/headShotsSit
 Full-stack application replicating popular shopping websites. 
 ![Amazin](public/images/amazinimage.PNG)
 
-    Languages: ReactJS, Springboot/Java, Postgres
+    Technology: ReactJS, Springboot/Java, Postgres
     Roles: Product Variant Component, Editing Server Development
     
 Project Link:[Client Repo](https://github.com/mrterranova/client-Amazin), [Server Repo](https://github.com/mrterranova/server-Amazin)
@@ -120,11 +120,18 @@ Project Link:[Client Repo](https://github.com/mrterranova/client-Amazin), [Serve
 Full-stack application replicating popular bed and breakfast websites.
 ![EarthBNB](public/images/Earthbnbimage.PNG)
 
-    Languages: AngularJS, Springboot/Java, MySQL
+    Technology: AngularJS, Springboot/Java, MySQL
     Roles: More Places to Stay Component, Footer, Client Routing, Server Development
     
 Project Link: [Client Repo](https://github.com/mrterranova/client-EarthBnB), [Server Repo](https://github.com/mrterranova/server-EarthBnB)
 
+### Galactic BNB
+Full-stack application and extension to Earth BNB with the incorporation of AWS elasticsearch parameters.
+![GalacticBNB](public/images/Galacticbnbimage.PNG)
+
+    Technology: AngularJS, Springboot/Java, MySQL
+    Roles: Client-side routing to AWS elasticsearch, connecting and passing data between multiple components.
+    
 #### Learning Exercises with Java Projects 
 Java building exercises demonstrating knowledge base in Java testing and application production. 
 
