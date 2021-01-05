@@ -131,6 +131,8 @@ Full-stack application and extension to Earth BNB with the incorporation of AWS 
 
     Technology: AngularJS, Springboot/Java, MySQL
     Roles: Client-side routing to AWS elasticsearch, connecting and passing data between multiple components.
+   
+Project Link: [Repository](https://github.com/mrterranova/client-GalacticBnB)
     
 #### Learning Exercises with Java Projects 
 Java building exercises demonstrating knowledge base in Java testing and application production. 
