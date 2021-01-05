@@ -39,7 +39,8 @@ __Overall Experience__: 4 Years
 For all information, please contact Kiersten Kindred, *Consultant Engagement Manager*.
 
 - __Phone Number__ : 713-547-4495 
-- __Email Address__ : [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
+- __Email Address for Work Availability__ : [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
+- __Personal Email Address for Project Inquiries__ : [mterranova@talentpath.com](mailto:mterranova@talentpath.com)
 
 #### My Accounts
 View my repositories and posts over my work and social media accounts.
