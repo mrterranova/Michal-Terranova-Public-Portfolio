@@ -162,4 +162,8 @@ Building a react app from scratch? Many tutorials will give you insight as to ho
 
 This is a step-by-step guide on how to build a customizable dropdown menu that updates the options your menu on click. You will be given all the needed steps to develop your dropdown without any plugins...
 
+### How To Videos Guides
+
+##### [How to Video: Basic JUnit Testing Boolean Values](https://vimeo.com/497017761)
+
     
