@@ -149,6 +149,9 @@ Projects and Links:
 * [Java Core Foundations 1](https://github.com/mrterranova/maven.java-fundamentals)| [Travis Build](https://travis-ci.com/github/mrterranova/maven.java-fundamentals)
 
 #### Data Analytics Challenges FreeCodingCamp work
+FreeCodingCamp project with completion certificate attached to my LinkedIn. These are my various repos showing all the work and notes took to complete each challenge.
+
+##### Data Analysis with Python Projects:
 * [Mean-Variance-Standard Deviation](https://repl.it/@mrterranova/boilerplate-mean-variance-standard-deviation-calculator-1)
 * [Demographic Data Analyzer](https://repl.it/@mrterranova/boilerplate-demographic-data-analyzer#.replit)
 * [Medical Data Visualizer](https://repl.it/@mrterranova/boilerplate-medical-data-visualizer)
