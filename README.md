@@ -148,6 +148,13 @@ Projects and Links:
 * [Java Core Foundations 2](https://github.com/mrterranova/maven.numbers-triangles-tables)| [Travis Build](https://travis-ci.com/github/mrterranova/maven.numbers-triangles-tables)
 * [Java Core Foundations 1](https://github.com/mrterranova/maven.java-fundamentals)| [Travis Build](https://travis-ci.com/github/mrterranova/maven.java-fundamentals)
 
+#### Data Analytics Challenges FreeCodingCamp work
+* [Mean-Variance-Standard Deviation](https://repl.it/@mrterranova/boilerplate-mean-variance-standard-deviation-calculator-1)
+* [Demographic Data Analyzer](https://repl.it/@mrterranova/boilerplate-demographic-data-analyzer#.replit)
+* [Medical Data Visualizer](https://repl.it/@mrterranova/boilerplate-medical-data-visualizer)
+* [Page View Time Series Visualizer](https://repl.it/@mrterranova/boilerplate-page-view-time-series-visualizer)
+* [Sea Level Predictor](https://repl.it/@mrterranova/boilerplate-sea-level-predictor)
+
 
 -----------------------------------
 
